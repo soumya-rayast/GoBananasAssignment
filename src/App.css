@@ -1,0 +1,27 @@
+/* styles.css */
+.container {
+    margin-top: 20px;
+  }
+  
+  .image-grid {
+    margin-top: 20px;
+  }
+  
+  .image-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .MuiTextField-root {
+    width: 100%;
+  }
+  
+  .MuiCircularProgress-root {
+    margin: 20px auto;
+  }
+  
+  .MuiCardMedia-root {
+    object-fit: cover;
+  }
+  
